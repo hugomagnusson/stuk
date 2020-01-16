@@ -4,7 +4,6 @@ html, .fullscreen {display: flex;height: 100%; margin: 0;padding: 0;width: 100%;
 .title {font-size: 3rem;}
 
 body {
-    user-select: none;
    -webkit-user-select: none;
    -webkit-tap-highlight-color: transparent;
    -webkit-touch-callout: none;
