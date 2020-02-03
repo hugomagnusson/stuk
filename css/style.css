@@ -7,4 +7,36 @@ body {
    -webkit-user-select: none;
    -webkit-tap-highlight-color: transparent;
    -webkit-touch-callout: none;
+
+   background-color: #808080;
+}
+
+#bottom_box {
+    background-color: #cfc ;
+}
+
+
+
+#bottom_bar {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  height: 7vh;
+  width: 100%;
+  background-color: white;
+  color: black;
+  
+  
+}
+
+#bottom_icons {
+    float: right;
+    padding-top: 1vh;
+    padding-right: 2vw;
+}
+
+#bottom_text {
+    float: left;
+    padding-left: 2vw;
+    font-size: 2.5vh;
 }
